@@ -75,7 +75,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <!-- Twitter Drawer -->
     <string name="discover">Discover</string>
     <string name="connect">Connect</string>
-    <string name="twitter_search">Search</string>
+    <string name="twitter_search">Searching</string>
     <string name="twitter_home">Home</string>
     <string name="twitter_me">Me</string>
     <string name="switch_to_folio">Switch to Folio</string>
